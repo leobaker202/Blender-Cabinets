@@ -4,7 +4,7 @@ from old verisons of blender (2.79 and below)
 
 if you notice some options missing it is usually because some options come from add-ons that exist in blender by default but are not enabled
 
-Add-ons:
+Add-ons-----------------------------
 
 Mesh: Looptools
 
@@ -15,6 +15,8 @@ Add Mesh: Extra Objects
 Add Mesh: A.N.T Landscape
 
 Add Curve: Tree Sapling Tree Gen
+
+------------------------------------
 
 and it will include some other useful things too that are more commonly used that will be added to the menu, such as things related to UV unwarping for example (which currently do exist)
 ![image](https://github.com/leobaker202/Blender-Cabinets/assets/70982565/63ed0606-8bf6-418e-b6c5-96574f98114c)
