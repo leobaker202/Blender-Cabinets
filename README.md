@@ -4,8 +4,8 @@ from old verisons of blender (2.79 and below)
 
 if you notice some options missing it is usually because some options come from add-ons that exist in blender by default but are not enabled
 
-Add-ons-----------------------------
-
+Add-ons
+----------------------------------
 Mesh: Looptools
 
 Add Curve: Extra Objects
