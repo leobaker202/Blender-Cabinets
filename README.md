@@ -16,6 +16,8 @@ Add Mesh: A.N.T Landscape
 
 Add Curve: Tree Sapling Tree Gen
 
+Animation: Dynamic Parent - Link: https://github.com/romanvolodin/dynamic_parent/releases/latest
+
 ------------------------------------
 
 and it will include some other useful things too that are more commonly used that will be added to the menu, such as things related to UV unwarping for example (which currently do exist)
